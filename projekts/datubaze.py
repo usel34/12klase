@@ -20,4 +20,4 @@ def top():
   return dati
 
 def pievienot(dati):
-  ffffgvgfgggg
+  

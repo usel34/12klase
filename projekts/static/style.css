@@ -1,0 +1,70 @@
+/*https://www.color-hex.com/color/673f34
+  https://www.color-hex.com/color/6e7a8f
+  https://www.color-hex.com/color/fae7c6
+  https://www.color-hex.com/color/df9d5a
+  */
+
+
+h1 {
+    color: #673f34;
+    font-weight: bold;
+}
+
+body {
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+    text-align: center;
+    background-color: #6e7a8f;
+}
+
+#mainFrame{
+    background-color: #fae7c6;
+}
+
+#description{
+    font-weight: bold;
+    color: #df9d5a;
+}
+
+input[type=date] {
+    background-color: #df9d5a;
+    color: #fae7c6;
+}
+
+input[type=number] {
+    border: 2px solid #673f34;
+    border-radius: 4px;
+    width: 7%;
+}
+
+button[type=submit]{
+    background-color: #fae7c6;
+    border-radius: 12px;
+}
+
+button[type=submit]:hover{
+    background-color: #df9d5a;
+}
+
+thead > tr > th {
+    font-weight: bold;
+    color: #673f34;
+    border: 2px solid;
+}
+
+tr > td {
+    color: #673f34;
+    border: 2px solid;
+}
+
+#avgTemp {
+    font-style: italic;
+    color: #673f34;
+}
+
+table{
+    border: 2px solid;
+    border-collapse: collapse;
+    width: 100%;
+}
